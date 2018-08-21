@@ -1,0 +1,10 @@
+type User {
+  id: ID! @unique
+  name: String!
+}
+
+type Person {
+  id :ID! @unique
+  personname: String
+  personage: Int
+}
