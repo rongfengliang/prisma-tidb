@@ -1,4 +1,16 @@
-# TiDB docker-compose
+# TiDB docker-compose && prisma
+
+> add prisma run with tid
+
+## How to Run
+
+```code
+docker-compose up -d
+prisma deploy
+
+open http://localhost:4466 for test graphql api
+
+```
 
 [![Build Status](https://travis-ci.org/pingcap/tidb-docker-compose.svg?branch=master)](https://travis-ci.org/pingcap/tidb-docker-compose)
 
