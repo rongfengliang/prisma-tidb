@@ -1,6 +1,6 @@
 # TiDB docker-compose && prisma
 
-> add prisma run with tid
+> add prisma run with tidb
 
 ## How to Run
 
